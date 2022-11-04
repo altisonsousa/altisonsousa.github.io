@@ -1,0 +1,83 @@
+.cabecalho {
+  background-color: darkgrey;
+  margin: 0px 0px 10px;
+  width: 100%;
+  border: 2px solid rgb(22, 105, 22);
+}
+
+.altison {
+  border: 2px black;
+}
+
+.links {
+  margin: 10px 10px 10px;
+}
+
+body {
+  background-color: rgb(106, 126, 115);
+}
+
+.meuNome {
+  text-align: center;
+  font-family: Arial;
+  margin-top: 10px;
+}
+
+#imag {
+  float: left;
+  height: 400px;
+  margin: 10px 10px 10px;
+  width: 320px;
+}
+
+.p1 {
+  width: 300px;
+  width: 300px;
+  margin: 100px 50px 10px;
+}
+
+.p2 {
+  margin: 20px 10px 20px;
+}
+
+#texto {
+  float: left;
+  width: 400px;
+  height: 400px;
+  margin: 0px;
+  
+}
+#cidade {
+  width: 322px;
+  height: 400px;
+  background-color: rgb(38, 78, 43);
+  margin: 0px 0px 0px;
+}
+
+#texto, #cidade {
+  padding: 10px;
+}
+
+em {
+  color: rgb(250, 253, 250);
+}
+
+.javascript {
+  font-size: 20px;
+}
+
+.sql {
+  font-size: 18px;
+}
+
+.react {
+  font-size: 16px;
+}
+
+.bootstrap {
+  font-size: 14px;
+}
+
+.metoAgil {
+  font-size: 12px;
+}
